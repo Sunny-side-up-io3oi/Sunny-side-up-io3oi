@@ -1,14 +1,13 @@
 
 </br></div> 
     </div>
-    <div align= "center">![제목을-입력해주세요_](https://github.com/user-attachments/assets/e6748d73-b9a0-4a26-867c-e0ce635b0c64)
-  
-</br>
-</br>
+    <div align= "center">
+![제목을-입력해주세요_ (3)](https://github.com/user-attachments/assets/072f29db-1e85-4e6d-8c5e-68edf11a77cf)
+
 </br></div> 
     </div>
     <div align= "center">
-         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  I'm io3oi💛 </h2>  
+         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  💛I'm io3oi💛 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </li>My ability is.....🐣</li><br></li>🎮Unity Developer( 2D / 3D / VR / AR / XR / VFX )🌱<br></li>🎮Unreal Developer (cinematic) 🌱<br></li>🎥Video Editor( Movie / PD / MediaArt )🎥<br>
     </br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
