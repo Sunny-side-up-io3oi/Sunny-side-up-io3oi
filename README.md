@@ -2,7 +2,7 @@
 </br></div> 
     </div>
     <div align= "center">
-![깃허브](https://github.com/user-attachments/assets/674b1b2a-3b61-4570-a58b-577402fc4b9f)
+![깃허브 2](https://github.com/user-attachments/assets/c59a449c-abdc-487b-b52b-ffe872ad923c)
 
 
 </br></div> 
