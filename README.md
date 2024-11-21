@@ -2,7 +2,8 @@
 </br></div> 
     </div>
     <div align= "center">
-![제목을-입력해주세요_ (3)](https://github.com/user-attachments/assets/072f29db-1e85-4e6d-8c5e-68edf11a77cf)
+![깃허브](https://github.com/user-attachments/assets/674b1b2a-3b61-4570-a58b-577402fc4b9f)
+
 
 </br></div> 
     </div>
